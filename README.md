@@ -3,7 +3,7 @@
 **Know exactly how good your landing was.**
 FlareScore is a free in-game landing analyzer for **Microsoft Flight Simulator 2024**. It detects every landing in the background and pops up a clean report in the toolbar right after touchdown.
 
-Created by **RyFyer** | Version **1.1.0**
+Created by **RyFyer** | Version **1.5.0**
 
 **Download:** [FlareScore on flightsim.to](https://flightsim.to/addon/119877/flarescore-landing-hud-automatic-landing-rate-touchdown-analyze)
 
@@ -11,6 +11,10 @@ Created by **RyFyer** | Version **1.1.0**
 
 - Fully automatic: the report pops up by itself after touchdown
 - Pop-up stays for as long as you like, then closes again
+- Optional compact pop-up with just your landing rate
+- Customize which values appear in the full report and in the compact pop-up
+- Every touchdown is shown, also in replays (the logbook saves at most one landing every 20 minutes)
+- "RECORDING" indicator while landing detection is running
 - EFB app with an extended summary of your last landing
 - Landing rate with a rating from BUTTER! to VERY HARD
 - G-force, IAS, groundspeed, pitch and bank
@@ -19,7 +23,7 @@ Created by **RyFyer** | Version **1.1.0**
 - Runway diagram with approach track and touchdown point
 - Automatic aircraft, airport and runway recognition
 - Bounce and touch-and-go detection
-- Logbook with up to 200 landings and your best landings
+- Logbook with up to 200 landings and your best landings (at most one entry every 20 minutes)
 - Resizable window: drag an edge or a bottom corner, everything scales with it
 - Settings for units, auto-open, auto-collapse and touchdown zone length
 - In-game notification when a new version is available
