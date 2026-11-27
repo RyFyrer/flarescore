@@ -1,8 +1,28 @@
 # Changelog
 
+## 1.5.0
+
+Big comfort update: a compact pop-up, a report you can customize, and every touchdown is shown.
+
+**New**
+- Compact pop-up (Settings > Compact pop-up): only your landing rate in a small glass card, tinted by the rating. "Show details" opens the full report
+- The compact pop-up only appears on the automatic pop-up after landing. When you open FlareScore yourself, you always get the full window
+- Customize your report: choose which values appear in the full report (2 to 10) and in the compact pop-up (up to 4)
+- New values: runway remaining, runway, bounces, aircraft and sink rate in the second unit
+- "RECORDING" indicator in the window header while landing detection is running
+- Every touchdown is shown, also in replays and repeated landings
+
+**Improved**
+- The logbook saves at most one landing every 20 minutes, so replays and repeated touchdowns do not flood it. Touchdowns that are not saved are marked "not saved to logbook"
+- The window keeps a consistent size: everything scales exactly with the window width
+- First start: the window opens in the top right corner at a comfortable size
+- The compact pop-up appears exactly where you placed the FlareScore window, without the title bar
+- Cleaner settings with a collapsible effects section
+
 ## 1.1.0
 
 First stable release.
+
 
 - Fully automatic: the report pops up by itself after touchdown, even when the window is closed
 - New FlareScore EFB app with an extended landing summary (rebuilt, no more black EFB)
