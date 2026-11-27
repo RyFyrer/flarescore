@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.5.0",
   "url": "https://flightsim.to/addon/119877/flarescore-landing-hud-automatic-landing-rate-touchdown-analyze",
-  "notes": "Automatic pop-up after landing, new EFB app, faster detection"
+  "notes": "Compact pop-up, customizable report, every touchdown shown"
 }
